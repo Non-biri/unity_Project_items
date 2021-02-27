@@ -1,0 +1,2 @@
+# unity_Project_items
+unityプロジェクトをGit管理するときとかに入れとくといい情報とかまとめとくリポジトリ
